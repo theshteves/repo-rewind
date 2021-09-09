@@ -8,7 +8,7 @@ describe('Test h1 in every page', () => {
       const pages = [...xml.getElementsByTagName('loc')].map((e) => e.innerHTML)
 
       pages.forEach((page) => {
-        console.log(page)
+        // console.log(page)
         cy.visit(page)
         cy.get('h1')
       })
