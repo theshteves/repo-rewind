@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "repo-rewind",
+    siteUrl: "http://localhost:4000", // "https://theshteves.github.io/repo-rewind",
+    title: "Repo Rewind",
   },
   plugins: [
     "gatsby-plugin-postcss",
