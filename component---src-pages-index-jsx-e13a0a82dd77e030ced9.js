@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrepo_rewind=self.webpackChunkrepo_rewind||[]).push([[230],{4199:function(e,n,r){r.r(n),r.d(n,{default:function(){return l}});var t=r(7294);function l(){return t.createElement("main",null,t.createElement("h1",{className:"text-4xl"},"Hello World!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-jsx-e13a0a82dd77e030ced9.js.map
