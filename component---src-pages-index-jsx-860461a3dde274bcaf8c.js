@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrepo_rewind=self.webpackChunkrepo_rewind||[]).push([[230],{4199:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});var r=t(7294);function u(){return r.createElement("main",null,r.createElement("h1",{className:"text-4xl"},"Index Page"))}}}]);
+//# sourceMappingURL=component---src-pages-index-jsx-860461a3dde274bcaf8c.js.map

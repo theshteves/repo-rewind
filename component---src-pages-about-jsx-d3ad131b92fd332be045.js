@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrepo_rewind=self.webpackChunkrepo_rewind||[]).push([[354],{1866:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});var r=t(7294);function u(){return r.createElement("main",null,r.createElement("h1",{className:"text-4xl"},"About Page"))}}}]);
+//# sourceMappingURL=component---src-pages-about-jsx-d3ad131b92fd332be045.js.map
